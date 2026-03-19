@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # quiz_app_supabase
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Flutter-Quiz-App
+An interactive quiz app that lets users test their knowledge across various topics with multiple-choice questions and instant scoring.
+>>>>>>> origin/main
